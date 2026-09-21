@@ -1,5 +1,5 @@
 # AI-BOOTCAMP
-Create a list of random numbers and print all the even numbers in the list
+# Create a list of random numbers and print all the even numbers in the list
 
 # create random list
 list = [2,3,4,10,14,15,16,17,18,19,20]
@@ -11,7 +11,7 @@ for i in list:
         print(i, end=' ')
         
         
-Create a string and print it in reverse order. Now reverse the words also.
+# Create a string and print it in reverse order. Now reverse the words also.
 
 # Create a string
 text = "Todays AI Bootcamp is very interesting and informative"
